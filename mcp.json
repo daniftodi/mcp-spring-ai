@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "spring-ai": {
+      "command": [
+        "java",
+        "-jar",
+        "/Users/diftodi/Downloads/spring-mcp/build/libs/spring-mcp-0.0.1-SNAPSHOT.jar"
+      ],
+      "transport": "stdio"
+    }
+  }
+}
